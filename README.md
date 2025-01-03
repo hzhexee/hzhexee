@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻Telegram bot app for college building navigation**
+- 💼 I'm currently working on: **💻My coursework**
 - 🌱 I'm currently learning: **📚 APIs, Golang, Python, Cybersecurity, ML, Dart**
 
  **<h3 align="left">Skills</h3>**
