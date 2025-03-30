@@ -17,7 +17,7 @@
 
  **<h3 align="left">i dump all my stuff from college and my shitty ai-generated vibe-coded pet projects. feel free to steal anything u want, i don't care</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
+**<h3 align="left">what am i doing rn?</h3>**
 
 - working on rn: **coursework**
 - currently learning: **APIs (REST API, gRPC), Go, Python, Cybersecurity, ML, Dart**
