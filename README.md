@@ -12,15 +12,15 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=hzhexee&label=Profile%20views&color=0e75b6&style=flat)
 
-**<h3 align="left">Connect with me:</h3>** 
+**<h3 align="left">connect with me (also @hzhex at telegram):</h3>** 
 <p align="left"><a href="https://github.com/hzhexee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">Hi! My name's Alexander. This page is mostly for my personal use and needs, such as managing all my college-related stuff. But I hope i'll post my pet-projects here soon too!</h3>**
+ **<h3 align="left">i dump all my stuff from college and my shitty ai-generated vibe-coded pet projects. feel free to steal anything u want, i don't care</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻My coursework**
-- 🌱 I'm currently learning: **📚 APIs, Golang, Python, Cybersecurity, ML, Dart**
+- working on rn: **coursework**
+- currently learning: **APIs (REST API, gRPC), Go, Python, Cybersecurity, ML, Dart**
 
  **<h3 align="left">Skills</h3>**
 
