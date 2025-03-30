@@ -35,6 +35,6 @@
 
 <p align="left">
   <img width="48%" height="200px" src="https://streak-stats.demolab.com/?user=hzhexee&theme=moltack&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzhexee&theme=moltack&cache_seconds=1800&border_radius=4&">
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzhexee&v=2&theme=moltack&cache_seconds=1800&border_radius=4&">
 </p>
 
