@@ -15,7 +15,7 @@
 **<h3 align="left">connect with me (also @hzhex at telegram):</h3>** 
 <p align="left"><a href="https://github.com/hzhexee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">i dump all my stuff from college and my shitty ai-generated vibe-coded pet projects. feel free to steal anything u want, i don't care</h3>**
+ **<h3 align="left">i dump all my stuff from college and my shitty ai-generated vibe-coded pet projects here. feel free to steal anything u want, i don't care  ┐(￣～￣)┌</h3>**
 
 **<h3 align="left">what am i doing rn?</h3>**
 
