@@ -1,4 +1,6 @@
-![hzhex's storage for college works & pet projects](https://github.com/user-attachments/assets/39e14f9a-26a1-4310-ad0c-fb5bf6cb109c)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/39e14f9a-26a1-4310-ad0c-fb5bf6cb109c" alt="hzhex's storage for college works & pet projects">
+</div>
 
 <div id="toc">
   <ul align="center" style="list-style: none">
