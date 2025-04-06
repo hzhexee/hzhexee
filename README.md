@@ -1,4 +1,4 @@
-![hzhex's storage for college works & pet projects](https://github.com/user-attachments/assets/8794e540-8cdf-4ba7-a269-fc8b3b2aced6)
+![hzhex's storage for college works & pet projects](https://github.com/user-attachments/assets/39e14f9a-26a1-4310-ad0c-fb5bf6cb109c)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
