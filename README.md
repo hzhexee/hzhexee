@@ -24,7 +24,7 @@
 **<h3 align="left">what am i doing rn?</h3>**
 
 - working on rn: **coursework**
-- currently learning: **APIs (REST API, gRPC), DevOps, Go, Python, Cybersecurity, ML/AI (very superficially though)**
+- learning rn: **APIs (REST API, gRPC), DevOps, Go, Python, Cybersecurity, ML/AI (very superficially though)**
 
  **<h3 align="left">my (not so real) skills</h3>**
 
