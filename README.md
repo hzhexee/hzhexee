@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/39e14f9a-26a1-4310-ad0c-fb5bf6cb109c" alt="hzhex's storage for college works & pet projects">
+  <img src="https://github.com/user-attachments/assets/85ced40a-12fe-44e9-8fc0-7e83643d4007" 
+       alt="hzhex's storage for college works & pet projects"
+       style="width: 50%; height: auto;">
 </div>
 
 <div id="toc">
