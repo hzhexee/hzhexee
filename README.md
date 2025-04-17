@@ -33,12 +33,12 @@
  **<h3 align="left">my stats</h3>**
 
 <p align="left">
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=hzhexee&theme=moltack&cache_seconds=1800&border_radius=4&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=false&show=" alt="GitHub stats Card" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzhexee&theme=moltack&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api?username=hzhexee&theme=graywhite&cache_seconds=1800&border_radius=4&hide_title=true&hide_rank=false&rank_icon=github&show_icons=true&include_all_commits=true&line_height=25&text_bold=false&show=" alt="GitHub stats Card" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hzhexee&theme=graywhite&cache_seconds=1800&border_radius=4&hide_title=false&layout=compact&langs_count=5&card_width=400&hide_progress=false" alt="GitHub top-langs Card" />
 </p>
 
 <p align="left">
-  <img width="48%" height="200px" src="https://streak-stats.demolab.com/?user=hzhexee&theme=moltack&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
-  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzhexee&v=2&theme=moltack&cache_seconds=1800&border_radius=4&">
+  <img width="48%" height="200px" src="https://streak-stats.demolab.com/?user=hzhexee&theme=graywhite&hide_border=false&border_radius=4.5&date_format=M+j%5B%2C+Y%5D&mode=daily&disable_animations=false&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&exclude_days=&locale=en&card_height=200" alt="GitHub streak Card" />
+  <img width="48%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=hzhexee&v=2&theme=graywhite&cache_seconds=1800&border_radius=4&">
 </p>
 
