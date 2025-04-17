@@ -8,7 +8,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        hzhex's storage for college works & pet projects
+        hzhex's garbage dump
       </h1>
     </summary>
   </ul>
