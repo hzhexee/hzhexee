@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0a3d61c8-7900-4c2a-ada3-5bb71ef5f6b8"
-       alt="hzhex's storage for college works & pet projects"
+       alt="hzhex's garbage dump"
        style="width: 50%; height: auto;">
 </div>
 
