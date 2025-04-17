@@ -14,8 +14,6 @@
   </ul>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=hzhexee&label=Profile%20views&color=0e75b6&style=flat)
-
 **<h3 align="left">connect with me (also @hzhex at telegram):</h3>** 
 <p align="left"><a href="https://github.com/hzhexee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
