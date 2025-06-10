@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0a3d61c8-7900-4c2a-ada3-5bb71ef5f6b8"
+  <img src="https://github.com/user-attachments/assets/4394e29c-65a1-4e37-aee0-14b12f7d0908"
        alt="hzhex's garbage dump"
        style="width: 50%; height: auto;">
 </div>
