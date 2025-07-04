@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-**<h3 align="left">connect with me (also @hzhex at telegram):</h3>** 
+**<h3 align="left">connect with me:</h3>** 
 <p align="left">
   <a href="https://github.com/hzhexee" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a>
   <a href="https://t.me/hzhex" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="28"></a>
