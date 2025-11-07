@@ -18,4 +18,4 @@
 
 **<h3 align="left">my fields of interest</h3>**
 
-- **DevOps, Docker/K8s, Go, Python, APIs**
+- **DevOps, Docker/K8s, Go, Python, Automatization tools (Ansible, Consul, etc.), Tools for gathering metrics and logs**
